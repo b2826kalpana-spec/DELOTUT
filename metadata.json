@@ -1,0 +1,6 @@
+{
+  "name": "Delo Tut",
+  "description": "Платформа бытовых услуг для поиска мастеров и управления заказами",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
